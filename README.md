@@ -5,8 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🔹 Experienced in **Linux system administration** and **SQL databases**  
-- 🔹 Hands-on with **AWS Cloud** services (EC2, S3, IAM, VPC)  
+- 🔹 Experienced in **Linux system administration** and **SQL databases**    
 - 🔹 Working with **Telecom protocols** like **SMPP** and **CGNAT**  
 - 🔹 Currently learning **Python** for automation and DevOps scripting  
 - 🔹 Interested in **Cloud + AI integrations** and **MLOps**
